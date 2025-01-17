@@ -1,6 +1,6 @@
 # Problem 2: Fancy Form
 
-![Token Swap Screenshot](./token-swap-screenshot.png)
+<img src="./token-swap-screenshot.png" alt="Token Swap Screenshot" width="300">
 
 ## Getting Started
 
